@@ -1,5 +1,6 @@
 ## SUPERSTORE SALES
 
+<img width="1155" height="651" alt="image" src="https://github.com/user-attachments/assets/7b899917-8a94-4272-9648-fb4e18a102f9" />
 
 <img width="1152" height="660" alt="image" src="https://github.com/user-attachments/assets/f9f3fcf6-ac49-44c3-829c-31c52638e9f2" />
 
