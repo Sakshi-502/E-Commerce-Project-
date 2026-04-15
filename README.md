@@ -7,9 +7,13 @@ The Super Store Sales Performance Report 2026 provides a comprehensive analysis 
 
 Key Performance Indicators (KPIs)
 Total Sales: 1.57M
+
 Total Profit: 175.26K
+
 Total Orders: 3.003K
+
 Total Quantity Sold: 22K 
+
 Customer Base: 773 unique customers across 452 cities and 49 states
 
 
