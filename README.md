@@ -23,7 +23,12 @@ Customer Base: 773 unique customers across 452 cities and 49 states
 
 4. Sales Trends & Logistics Seasonality: Sales peak significantly in the fourth quarter, reaching a high of 0.24M in December.Shipping Preference: Standard Class is the most utilized shipping mode, accounting for 58.48% of orders.
 
-Report StructureThe analysis is divided into five specialized sections for targeted decision-making:Sales Overview: High-level KPIs and monthly trends.Sales Analysis: Deep dive into sub-categories and top-performing products.Regional Analysis: Geographical distribution of sales and city-wise profitability.Customer Insights: Segmentation and behavioral data.Profitability Details: Correlation between customers and profit margins.
+#### Report StructureThe analysis is divided into five specialized sections for targeted decision-making:
+Sales Overview: High-level KPIs and monthly trends.
+Sales Analysis: Deep dive into sub-categories and top-performing products.
+Regional Analysis: Geographical distribution of sales and city-wise profitability.
+Customer Insights: Segmentation and behavioral data.
+Profitability Details: Correlation between customers and profit margins.
 
 <img width="1155" height="651" alt="image" src="https://github.com/user-attachments/assets/7b899917-8a94-4272-9648-fb4e18a102f9" />
 
